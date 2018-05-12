@@ -1,0 +1,39 @@
+_repo: Life-of-Wm.-Tecumseh-Sherman.Late-Retired-General.-U.-S.-A._44686
+_version: 0.1.0
+alternative_title: Life of William Tecumseh Sherman.
+contributor:
+  author_of_introduction:
+    agent_name: Howard, O. O. (Oliver Otis)
+    alias: Howard, Oliver Otis
+    birthdate: 1830
+    deathdate: 1909
+    gutenberg_agent_id: '42873'
+    url: http://www.gutenberg.org/2009/agents/42873
+covers:
+- cover_type: archival
+  image_path: 44686-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnson, Willis Fletcher
+    alias: Johnson, W. Fletcher (Willis Fletcher)
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '36704'
+    url: http://www.gutenberg.org/2009/agents/36704
+description: ''
+gutenberg_issued: '2014-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44686'
+  lccn: '13016042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Sherman, William T. (William Tecumseh), 1820-1891'
+title: 'Life of Wm. Tecumseh Sherman.
+
+  Late Retired General. U. S. A.'
+url: http://www.gutenberg.org/ebooks/44686
